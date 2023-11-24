@@ -12,9 +12,10 @@ Copiar o Link do Repositório:
 
 Se estiver usando HTTPS, copie o link. Se estiver usando SSH, você pode clicar em "Use SSH" e copiar o link SSH.
 
-Exemplo de link HTTPS: https://github.com/seu-usuario/nome-do-repositorio.git
+Exemplo de link HTTPS: https://github.com/ZoliniAbner/DesafioTecnico.git
 
-Exemplo de link SSH: https://github.com/ZoliniAbner/DesafioTecnico.git
+Exemplo de link SSH: git@github.com:ZoliniAbner/DesafioTecnico.git
+
 
 Baixar Usando Git (linha de comando):
 
