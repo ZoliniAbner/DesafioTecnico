@@ -29,7 +29,7 @@ bash
 
 Copy code
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ZoliniAbner/DesafioTecnico.git
 
 Visualizar o Código:
 
